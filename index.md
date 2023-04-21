@@ -1,6 +1,6 @@
 ---
 title: Ressources sur l'Intelligence artificielle
 ---
-[ChatGPT](https://openai.com/blog/chatgpt)
+<a href="https://openai.com/blog/chatgpt">ChatGPT</a>
 
 [StableDiffusion](https://stablediffusion.fr/webui)
