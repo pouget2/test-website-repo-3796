@@ -7,12 +7,9 @@ Traduction Français - Anglais
 
 </br>
 
-
 <a href="https://chat.openai.com/" target="_blank" >Chatgpt</a>
 
-
 </br>
-
 
 Ressources artistiques pour Midjourney
 
