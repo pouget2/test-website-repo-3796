@@ -6,12 +6,12 @@ Traduction Français - Anglais
 <a href="https://www.deepl.com/fr/translator">deepl</a>
 
 
-</br></br>
+<br>
 
 <a href="https://chat.openai.com/" target="_blank" >Chatgpt</a>
 
 
-</br></br>
+<br>
 
 Ressources artistiques pour Midjourney
 
