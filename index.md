@@ -1,5 +1,5 @@
 ---
-title: Ressources sur l'Intelligence artificielle
+title: Ressources sur l'Intelligence artificielle Adulte
 ---
 <a href="https://openai.com/blog/chatgpt"  target="_blank" >ChatGPT</a>
 
