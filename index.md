@@ -11,6 +11,7 @@ Services Web d'intelligence artificielle
 <a href="https://chat.openai.com/"  target="_blank" >ChatGPT</a>
 
 <a href="https://stablediffusion.fr/webui"  target="_blank" > StableDiffusion</a>
+
 <br><br><br>
 Bases de données texte-image utilisé pour StableDiffusion
 
