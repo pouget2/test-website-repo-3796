@@ -4,7 +4,7 @@ title: Ressources sur l'Intelligence artificielle Adulte
 Traduction Français - Anglais
 
 <a href="https://www.deepl.com/" target="_blank"> DeepL </a>
-<br>
+<br><br>
 
 Services Web d'intelligence artificielle
 
