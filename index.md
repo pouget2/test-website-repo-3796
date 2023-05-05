@@ -11,10 +11,11 @@ Services Web d'intelligence artificielle
 <a href="https://chat.openai.com/"  target="_blank" >ChatGPT</a>
 
 <a href="https://stablediffusion.fr/webui"  target="_blank" > StableDiffusion</a>
-<br>
+<br><br><br>
 Bases de données texte-image utilisé pour StableDiffusion
 
 <a href="https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images"  target="_blank" >Laion - Stable Diffusion </a>
+<br>
 <br>
 <br>
 
