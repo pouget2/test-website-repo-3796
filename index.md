@@ -24,3 +24,5 @@ Visualiser un réseau de neurones convolutif
 
 
 <a href="https://fr.vittascience.com/ia/" target="_blank">Vittascience</a>
+
+<a href="https://github.com/pouget2/test-website-repo-3796/blob/main/images/IAAdulte-%20a%20partager-compressed.pdf" target="_blank" > Feuilleter la présentation de l'atelier </a>
