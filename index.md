@@ -26,3 +26,14 @@ Visualiser un réseau de neurones convolutif
 <a href="https://fr.vittascience.com/ia/" target="_blank">Vittascience</a>
 
 <a href="https://github.com/pouget2/test-website-repo-3796/blob/main/images/IAAdulte-%20a%20partager-compressed.pdf" target="_blank" > Feuilleter la présentation de l'atelier </a>
+
+
+<br>
+
+Ressources artistiques pour Midjourney
+
+<a href="https://www.midlibrary.io/features" target = "_blank" >MidLibrary</a>
+
+<a href="https://metaroids.com/lists/midjourney-art-styles-gigapack-free-200-prompt-keywords/" target = "_blank" >metaroids</a>
+
+<a href="https://weirdwonderfulai.art/resources/midjourney-style-chart-by-robomar-ai-art/" target = "_blank">weirdwonderfulai.art</a>
