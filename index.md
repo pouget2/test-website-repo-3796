@@ -1,5 +1,5 @@
 ---
-title: Ressources sur l'Intelligence artificielle Adulte
+title: Ressources
 ---
 Traduction Français - Anglais
 
