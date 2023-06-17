@@ -1,6 +1,8 @@
 ---
 title: Créer
 ---
+L’Intelligence Artificielle est-elle source de création ?
+
 Pour répondre à cette question, il est intéressant de distinguer deux sens au verbe créer.
 
 La première signification du verbe créer pourrait être interprétée comme le fait de produire quelque chose. À l'image de l'artisan façonnant des objets, ou de l'industrie manufacturant des biens, l'intelligence artificielle, à travers cette définition, semble bel et bien impliquée dans l'acte créatif. Pour étendre cette métaphore de l'artisan, l'IA utilise comme matière première les instructions qui lui sont fournies, et comme outil son algorithme. De ce point de vue, il est justifié de la considérer comme un agent créatif. Ainsi, en matière de génération d'images, l'IA se sert des descriptifs fournis par l'utilisateur pour façonner, via son algorithme, une nouvelle image.
