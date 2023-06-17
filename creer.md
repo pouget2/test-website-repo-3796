@@ -1,7 +1,7 @@
 ---
 title: Créer
 ---
-L’Intelligence Artificielle est-elle source de création ?
+<b>L’Intelligence Artificielle est-elle source de création ?</b>
 
 Pour répondre à cette question, il est intéressant de distinguer deux sens au verbe créer.
 
