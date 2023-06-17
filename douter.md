@@ -1,7 +1,7 @@
 ---
 title: Douter
 ---
-L'émergence rapide et le développement fulgurant des intelligences artificielles (IA) suscitent de nombreuses interrogations et des inquiétudes. Le philosophe Bernard Stiegler décrivait toute technologie comme un pharmakon, c'est-à-dire simultanément comme un poison et un remède. Son point de départ est l'émergence de l'écriture du temps de Platon, qu'il met en parallèle avec notre période actuelle d'innovation technique. Dans son dialogue "Phèdre", Platon employait le terme de pharmakon pour décrire l'écriture, se demandant si elle constituait une bonne ou une mauvaise chose, un remède ou un poison. Sa conclusion était que, même si l'écriture est en premier lieu un poison, sous certaines conditions, elle peut se transformer en remède.
+<font color="#08828f">L'émergence rapide et le développement fulgurant des intelligences artificielles (IA) suscitent de nombreuses interrogations et des inquiétudes. Le philosophe Bernard Stiegler décrivait toute technologie comme un pharmakon, c'est-à-dire simultanément comme un poison et un remède. Son point de départ est l'émergence de l'écriture du temps de Platon, qu'il met en parallèle avec notre période actuelle d'innovation technique. Dans son dialogue "Phèdre", Platon employait le terme de pharmakon pour décrire l'écriture, se demandant si elle constituait une bonne ou une mauvaise chose, un remède ou un poison. Sa conclusion était que, même si l'écriture est en premier lieu un poison, sous certaines conditions, elle peut se transformer en remède.
 
 Nous pouvons ainsi considérer les IA à la lumière de cette réflexion. Voici plusieurs aspects qui présentent les IA comme un potentiel poison :
 
@@ -25,4 +25,4 @@ Les IA ne créent rien de nouveau. Elles génèrent des textes et des images à 
 
 <b>Enjeux écologiques</b>
 
-La création et la formation des IA nécessitent d'énormes capacités de calcul et de stockage. Cela se traduit par l'utilisation d'ordinateurs gourmands en électricité, à la fois pour leur fonctionnement et pour leur refroidissement, contribuant ainsi de manière significative aux émissions de CO2. Selon Bloomberg, la formation d'un seul modèle d'IA consommerait autant d'énergie qu'une centaine de foyers américains sur un an. Un des défis majeurs à venir consiste à réduire l'empreinte carbone des IA.
+La création et la formation des IA nécessitent d'énormes capacités de calcul et de stockage. Cela se traduit par l'utilisation d'ordinateurs gourmands en électricité, à la fois pour leur fonctionnement et pour leur refroidissement, contribuant ainsi de manière significative aux émissions de CO2. Selon Bloomberg, la formation d'un seul modèle d'IA consommerait autant d'énergie qu'une centaine de foyers américains sur un an. Un des défis majeurs à venir consiste à réduire l'empreinte carbone des IA.</font>
