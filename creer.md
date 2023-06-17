@@ -1,7 +1,7 @@
 ---
 title: Créer
 ---
-<b>L’Intelligence Artificielle est-elle source de création ?</b>
+<font color="b5240e"><b>L’Intelligence Artificielle est-elle source de création ?</b>
 
 Pour répondre à cette question, il est intéressant de distinguer deux sens au verbe créer.
 
@@ -9,4 +9,4 @@ La première signification du verbe créer pourrait être interprétée comme le
 
 Cependant, si nous associons le verbe "créer" à l'idée de créativité, la réponse à notre question devient plus délicate à déterminer. En effet, la créativité contient intrinsèquement l'émergence de quelque chose d'inédit, que ce soit pour solutionner un problème tangible, pour concevoir une œuvre d'art, ou pour dévoiler de nouvelles connaissances. La créativité s'inscrit alors dans une trame sociale. Pour qu'il y ait créativité, il est indispensable qu'un élément nouveau s'introduise dans le tissu social. La créativité n'est donc plus comme dans la définition précédente, simplement l'apanage du créateur, mais elle devient un échange entre le créateur et le récepteur de la création. La créativité ne se manifeste que lorsqu'une tierce partie la reconnaît comme telle.
 
-En dernier lieu, la créativité recèle en son cœur une intention, une intuition qui transcende l'état actuel des choses. Cela nécessiterait donc d'accorder à l'IA une forme de volonté, douée d'intuition, ce qui, en l'état actuel de la technologie, ne semble pas possible.
+En dernier lieu, la créativité recèle en son cœur une intention, une intuition qui transcende l'état actuel des choses. Cela nécessiterait donc d'accorder à l'IA une forme de volonté, douée d'intuition, ce qui, en l'état actuel de la technologie, ne semble pas possible./font>
