@@ -1,7 +1,7 @@
 ---
 title: Créer
 ---
-<div style="background-color:#b5240e"><br></div>
+<div style="background-color:#b5240e;margin:0"><br></div>
 <br>
 <font color="#b5240e"><b>L’Intelligence Artificielle est-elle source de création ?</b>
 
