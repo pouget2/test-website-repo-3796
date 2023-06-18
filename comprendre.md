@@ -16,8 +16,8 @@ Lorsqu'un réseau de neurones est formé, il apprend à représenter les donnée
 Ainsi, l'IA, avec ses sous-domaines du Machine Learning et du Deep Learning, est un champ d'étude passionnant en constante évolution. Sa capacité à "apprendre" et à effectuer des tâches complexes pourrait avoir un impact profond sur tous les aspects de notre société dans les années à venir.</p>
 <br><br>
 <p style="text-align: justify"><b>
-Ce texte a été généré par l'intelligence artificielle  chatGPT.
+Ce texte a été généré par chatGPT.
 <br><br>
-Voilà ce que nous lui avons demandé :<br>
-"Pour une exposition sur l'intelligence artificielle, je voudrais que tu expliques de façon général ce concept dans un texte. Ce texte devra contenir  les concepts de machine learning, deep learning, neurone biologique, neurone artificiel, réseau de neurones, espace latent. Cette explication est à destination du grand public."</b>
+Nous lui avons demandé :<br>
+"Pour une exposition sur l'intelligence artificielle, expliques de façon générale ce concept dans un texte. Il devra contenir  les concepts de machine learning, deep learning, neurone biologique, neurone artificiel, réseau de neurones, espace latent. Cette explication est à destination du grand public."</b>
 </p></font>
