@@ -1,8 +1,8 @@
 ---
 title: Comprendre
 ---
-<div style="background-color:#b5240e;margin-bottom:10px"><br></div>
-<font color="#b5240e">
+<div style="background-color:#760e19;margin-bottom:10px"><br></div>
+<font color="#760e19">
 <p style="text-align: justify">L'intelligence artificielle (IA) est un domaine de l'informatique qui vise à créer des systèmes capables d'effectuer des tâches qui nécessitent normalement l'intelligence humaine, comme la reconnaissance vocale ou la prise de décisions complexes. Mais comment cela est-il possible ? Cela nous amène à un concept fondamental de l'IA : le "Machine Learning" ou apprentissage automatique.
 <br><br>
 Le Machine Learning est une technique qui permet aux machines d'apprendre à partir de données. Plutôt que d'être explicitement programmées pour effectuer une tâche, les machines sont "formées" en utilisant de grandes quantités de données et d'algorithmes qui leur permettent d'apprendre à accomplir la tâche par elles-mêmes. Cette notion nous conduit à un sous-ensemble spécifique du Machine Learning, connu sous le nom de "Deep Learning" ou apprentissage profond.
