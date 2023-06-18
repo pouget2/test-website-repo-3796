@@ -1,8 +1,8 @@
 ---
 title: Créer
 ---
-<div style="background-color:#b6240d;margin-bottom:10px"><br></div>
-<font color="#b6240d"><b>L’Intelligence Artificielle est-elle source de création ?</b>
+<div style="background-color:#bc270f;margin-bottom:10px"><br></div>
+<font color="#bc270f"><b>L’Intelligence Artificielle est-elle source de création ?</b>
 
 <p style="text-align: justify">Pour répondre à cette question, il est intéressant de distinguer deux sens au verbe créer.</p>
 
