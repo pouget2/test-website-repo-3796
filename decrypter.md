@@ -1,6 +1,8 @@
 ---
 title: Décrypter
 ---
+<div style="background-color:#807d78"><br></div>
+<br>
 <font color="#807d78"><p  style="text-align: justify">Les intelligences artificielles qui génèrent des images utilisent un modèle nommé Diffusion. Il s'agit d'un modèle relativement récent apparu en 2015. Ils permettent, entre autres, de générer des images à partir d'une description textuelle.
 </p>
 <p  style="text-align: justify">
