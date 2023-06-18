@@ -14,7 +14,7 @@ Un neurone artificiel reçoit des informations, effectue un calcul simple sur ce
 Lorsqu'un réseau de neurones est formé, il apprend à représenter les données dans un espace latent. C'est un espace de dimensions réduites où les points proches sont similaires d'une certaine manière. C'est comme si on transformait une bibliothèque pleine de livres en une carte, où chaque livre est un point sur la carte, et les livres sur des sujets similaires sont regroupés ensemble.
 <br><br>
 Ainsi, l'IA, avec ses sous-domaines du Machine Learning et du Deep Learning, est un champ d'étude passionnant en constante évolution. Sa capacité à "apprendre" et à effectuer des tâches complexes pourrait avoir un impact profond sur tous les aspects de notre société dans les années à venir.</p>
-<br><br><br>
+<br><br>
 <p style="text-align: justify"><b>
 Ce texte a été généré par l'intelligence artificielle  chatGPT.
 <br><br>
