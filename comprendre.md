@@ -17,7 +17,7 @@ Ainsi, l'IA, avec ses sous-domaines du Machine Learning et du Deep Learning, est
 <br><br><br>
 <p style="text-align: justify"><b>
 Ce texte a été généré par l'intelligence artificielle  chatGPT.
-
-Voilà ce que nous lui avons demandé :
+<br><br>
+Voilà ce que nous lui avons demandé :<br>
 "Pour une exposition sur l'intelligence artificielle, je voudrais que tu expliques de façon général ce concept dans un texte. Ce texte devra contenir  les concepts de machine learning, deep learning, neurone biologique, neurone artificiel, réseau de neurones, espace latent. Cette explication est à destination du grand public."</b>
 </p></font>
