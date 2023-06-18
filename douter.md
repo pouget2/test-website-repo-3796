@@ -4,7 +4,7 @@ title: Douter
 <div style="background-color:#b5240e"><br></div>
 </br>
 <font color="#08828f"><p  style="text-align: justify">L'émergence rapide et le développement fulgurant des intelligences artificielles (IA) suscitent de nombreuses interrogations et des inquiétudes. Le philosophe Bernard Stiegler décrivait toute technologie comme un pharmakon, c'est-à-dire simultanément comme un poison et un remède. Son point de départ est l'émergence de l'écriture du temps de Platon, qu'il met en parallèle avec notre période actuelle d'innovation technique. Dans son dialogue "Phèdre", Platon employait le terme de pharmakon pour décrire l'écriture, se demandant si elle constituait une bonne ou une mauvaise chose, un remède ou un poison. Sa conclusion était que, même si l'écriture est en premier lieu un poison, sous certaines conditions, elle peut se transformer en remède.</p>
-<br>
+
 <p  style="text-align: justify">Nous pouvons ainsi considérer les IA à la lumière de cette réflexion. Voici plusieurs aspects qui présentent les IA comme un potentiel poison :</p>
 <br>
 <b>Manipulation des opinions via la création de fausses informations </b>
