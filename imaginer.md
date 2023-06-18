@@ -13,10 +13,10 @@ title: Imaginer
 <p  style="text-align: justify">Ainsi, chaque participant a fourni un mot pour influencer le déroulement de l'histoire.
 <br>
 Dans cet exercice, une question fascinante se pose : où se situe la véritable source de l'imagination ? Est-ce ChatGPT qui fait preuve d'imagination en proposant une histoire, ou bien les participants qui font travailler leurs méninges pour imaginer l'effet potentiel de chaque mot ?
-<br>
+<br><br>
 Après l'écriture de l'histoire, nous avons sollicité ChatGPT pour qu'il nous décrive l'un des personnages. Pour ce faire, nous lui avons donné la consigne suivante :
 "Décris physiquement le personnage. Fais des phrases courtes, riches en adjectifs."
-<br>
+<br><br>
 La deuxième partie de l'atelier consistait à prendre cette description du personnage et à la soumettre à Midjourney, un générateur d'images basé sur le texte. Ainsi, nous avons pu obtenir un portrait visuel des héros de notre histoire.
-<br>
+<br><br>
 Dans cet exercice, l'imagination semble glisser des participants vers ChatGPT, qui à son tour la transmet à Midjourney.</p></font>
