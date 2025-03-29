@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello AR - WebXR</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@webxr-input-profiles/motion-controllers"></script>
+</head>
+<body style="margin: 0; overflow: hidden;">
+    <script>
+        // Vérifier si WebXR est supporté
+        if (navigator.xr) {
+            console.log("WebXR est supporté 🎉");
+
+            // Création de la scène Three.js
+            const scene = new THREE.Scene();
+            const camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.1, 1000);
+            const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            renderer.xr.enabled = true; // Activation de WebXR
+            document.body.appendChild(renderer.domElement);
+
+            // Ajouter un bouton pour entrer en AR
+            document.body.appendChild(XRButton.createButton(renderer));
+
+            // Lumière
+            const light = new THREE.HemisphereLight(0xffffff, 0xbbbbff, 1);
+            scene.add(light);
+
+            // Cube en 3D
+            const geometry = new THREE.BoxGeometry(0.2, 0.2, 0.2);
+            const material = new THREE.MeshBasicMaterial({ color: 0xff0000 });
+            const cube = new THREE.Mesh(geometry, material);
+            cube.position.set(0, 0, -1); // Place le cube devant l'utilisateur
+            scene.add(cube);
+
+            // Animation
+            function animate() {
+                renderer.setAnimationLoop(() => {
+                    cube.rotation.y += 0.01; // Faire tourner le cube
+                    renderer.render(scene, camera);
+                });
+            }
+
+            // Démarrer la session AR
+            navigator.xr.requestSession("immersive-ar", { requiredFeatures: ["hit-test"] }).then(session => {
+                renderer.xr.setSession(session);
+                animate();
+            });
+
+        } else {
+            console.log("WebXR n'est pas supporté 😢");
+        }
+    </script>
+</body>
+</html>
